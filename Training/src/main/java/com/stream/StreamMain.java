@@ -1,16 +1,10 @@
 package main.java.com.stream;
 
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.IntSummaryStatistics;
 import java.util.List;
-import java.util.Optional;
-import java.util.stream.Collector;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
-
-import main.java.com.functionalinterface.Employee;
 
 public class StreamMain {
 
